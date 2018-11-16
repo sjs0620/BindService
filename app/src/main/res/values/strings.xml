@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BindService</string>
+    <string name="buttonMainPlay">PlayService</string>
+    <string name="buttonMainStop">StopService</string>
+    <string name="buttonPlay">Play</string>
+    <string name="buttonStop">stop</string>
+    <string name="buttonAPlay" >Play</string>
+    <string name="buttonAStop">stop</string>
+</resources>
